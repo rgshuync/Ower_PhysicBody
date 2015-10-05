@@ -1,0 +1,16 @@
+{ 
+    
+    "download": [
+        
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   224, -0.5  ,  224.5, 0  ,  224.5, 224  ,  -0.5, 224  ,  -0.5, 0  ,  0, -0.5  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   224, 224.5  ,  0, 224.5  ,  -0.5, 224  ,  224.5, 224  ]
+        }
+    ]
+}
